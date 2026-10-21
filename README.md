@@ -27,4 +27,4 @@ Python (Polars, pandas, NumPy, statsmodels, scikit-learn) · SQL · Git · LaTeX
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/breal-ciceron-1b94351a9/?isSelfProfile=true) · brealtchuimi@gmail.com · Français / English
+[LinkedIn](https://www.linkedin.com/in/breal-ciceron-1b94351a9/) · brealtchuimi@gmail.com · Français / English
