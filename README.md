@@ -14,7 +14,7 @@ split, and Newey-West inference. Finding: the signal is real and stable out of s
 *Python · Polars · statsmodels · pytest*
 
 **[Quant Trainer](https://github.com/Bral9/stat-brainteaser)** - An offline app I use to drill
-probability, statistics, brainteasers and mental math for quant interviews. It installs on desktop
+probability, statistics, brainteasers, Python, SQL, ML and mental math for quant interviews. It installs on desktop
 and phone. [Open the app →](https://bral9.github.io/stat-brainteaser/)
 *JavaScript · PWA · spaced repetition*
 
