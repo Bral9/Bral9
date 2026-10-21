@@ -32,4 +32,4 @@ Python (Polars, pandas, NumPy, statsmodels, scikit-learn) · SQL · JavaScript �
 
 ### Elsewhere
 
-[LinkedIn]([[https://linkedin.com/in/breal]]) · brealtchuimi@gmail.com · Français / English
+[LinkedIn](https://www.linkedin.com/in/breal-ciceron-1b94351a9/?isSelfProfile=true) · brealtchuimi@gmail.com · Français / English
