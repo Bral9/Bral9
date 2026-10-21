@@ -13,11 +13,6 @@ split, and Newey-West inference. Finding: the signal is real and stable out of s
 (54% hit rate, R² 0.80% vs 0.04% for the microprice) but ~13x too small to pay retail taker fees.
 *Python · Polars · statsmodels · pytest*
 
-**[Quant Trainer](https://github.com/Bral9/stat-brainteaser)** - An offline app I use to drill
-probability, statistics, brainteasers, Python, SQL, ML and mental math for quant interviews. It installs on desktop
-and phone. [Open the app →](https://bral9.github.io/stat-brainteaser/)
-*JavaScript · PWA · spaced repetition*
-
 **[Population Modelling](https://github.com/Bral9/Applied-Math-Research)** - Malthus vs. logistic
 growth models for Cameroon (2007-2022), with closed-form solutions and least-squares fits.
 *Python · NumPy · Matplotlib*
@@ -28,7 +23,7 @@ teachers to manage IB CAS reports, with role-based access and review dashboards.
 
 ### Toolkit
 
-Python (Polars, pandas, NumPy, statsmodels, scikit-learn) · SQL · JavaScript · Git · LaTeX
+Python (Polars, pandas, NumPy, statsmodels, scikit-learn) · SQL · Git · LaTeX
 
 ### Elsewhere
 
